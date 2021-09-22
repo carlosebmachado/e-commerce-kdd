@@ -1,4 +1,4 @@
- # Global Super Store Dataset
+# Global Super Store Dataset
 
 ## Info
 - **Nomes:** Carlos Machado e João Felipe
@@ -7,9 +7,13 @@
 - **Quantidade de atributos:** 22
 - **Quantidade de registros:** 51.3k
 
-## Perguntas
-- JC. [Qual a relação entre a região e o (segmento/ categoria/Ship Mode/Subcategoria/Order Priority)? É possível associar?](https://colab.research.google.com/drive/1NaTPRTcMmkW084LEfL_TsEqlqNdvQzhe)
--	J1. Quais subcategorias mantiveram o desempenho de vendas ao longo dos anos e regiões?
-- J2. Quais subcategorias vendem mais no primeiro semestre do ano e não vendem bem no segundo? Há algum padrão por temporada?
-- C1. [Qual a relação entre método de envio? É possível prever alguma mudança?](https://colab.research.google.com/drive/1a-oq5jNc2-RTN2XzIBjf_aa39fBrxjcQ)
-- C2. [Qual a relação entre região e subcategorias? É possível prever alguma mudança?](https://colab.research.google.com/drive/1a-oq5jNc2-RTN2XzIBjf_aa39fBrxjcQ)
+## Visualização dos dados
+1. Qual é o lucro por região, mercado, categorias gerais e segmento? E quais países e categorias dão mais e menos lucros?
+1. Qual é o valor de vendas por região, mercado, categorias gerais e segmento? E quais países e categorias com os maiores e menores valores de vendas?
+1. Qual é a quantidade de pedidos por região, mercado, categorias gerais e segmento? E quais países e categorias com mais e menos pedidos?
+1. Quais as categorias predominantes em cada região?
+1. Existem preferências no método de envio? E qual o método de envio predominante em cada região?
+
+## Perguntas (Problemas de negócios)
+1. Quais os atributos que impactam nos lucros? (Classificação)
+1. Existem categorias que são costumeiramente vendidas juntas? (Associação)
